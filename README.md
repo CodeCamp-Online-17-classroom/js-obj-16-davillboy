@@ -7,3 +7,4 @@
 ```JavaScript
 const state1 = { username: 'john', point: 100, loading: true };
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
